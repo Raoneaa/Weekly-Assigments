@@ -1,0 +1,3 @@
+C:/Users/Julian/Desktop/Code/Programing 2/Weekly assigments/recursion/cmake-build-debug/CMakeFiles/recursion.dir
+C:/Users/Julian/Desktop/Code/Programing 2/Weekly assigments/recursion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Julian/Desktop/Code/Programing 2/Weekly assigments/recursion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
